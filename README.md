@@ -1,51 +1,61 @@
 <div align="center">
 
-# 👋 Hey, I'm Apurbo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=APURBO&fontSize=75&fontAlignY=40&animation=fadeIn"/>
 
-### Computer Science Student • Software Engineering Enthusiast • Problem Solver
+# 👋 Hello, I'm Apurbo
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Competitive+Programming+Enthusiast;Java+%7C+C%2B%2B+Developer;Future+Software+Engineer;Always+Learning+Something+New" />
+### Software Developer • Problem Solver • Computer Science Student
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Software+With+Purpose;Passionate+About+Technology+and+Innovation;Java+Developer+%7C+Competitive+Programmer;Computer+Science+Student;Learning+Today+Building+Tomorrow;Always+Curious+Always+Growing" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Apurbo-urex23&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Apurbo-urex23?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/Apurbo-urex23?style=for-the-badge&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Apurbo-urex23&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ⚡ About Me
 
-```text
-🎓 CSE Student
-💻 Passionate about Software Development
-🌱 Currently learning Java, OOP & DSA
-🎨 Exploring UI/UX Design with Figma
-🐧 Linux Enthusiast
-🎯 Goal: Become a World-Class Software Engineer
+```yaml id="4x6s7r"
+name: Apurbo
+role: Software Developer
+education: Computer Science Student
+location: Bangladesh
+focus:
+  - Software Engineering
+  - Data Structures & Algorithms
+  - Object Oriented Programming
+  - UI/UX Design
+currently_learning:
+  - Java
+  - System Design
+  - Modern Development Workflows
+goal: Build impactful software and contribute to open source
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🛠️ Tech Arsenal
 
-### Programming Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
-</p>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
 
 ### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
 
 ### Tools & Platforms
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" />
+
+</div>
 
 ---
 
@@ -53,25 +63,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Apurbo-urex23&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurbo-urex23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbo-urex23&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbo-urex23&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbo-urex23&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Apurbo-urex23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Apurbo-urex23&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -81,63 +81,92 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbo-urex23&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbo-urex23&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 Achievement Showcase
 
-> Create a GitHub Action later to generate this automatically.
+<div align="center">
 
-```markdown
-![Snake animation](https://github.com/Apurbo-urex23/Apurbo-urex23/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=Apurbo-urex23&theme=algolia&row=1&column=7&margin-w=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🚀 Developer Dashboard
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apurbo-urex23&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apurbo-urex23&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apurbo-urex23&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚙️ Current Objectives
+
+* 🚀 Build production-ready projects
+* 🧠 Strengthen DSA & Competitive Programming
+* ☕ Master Java Development
+* 🎨 Improve UI/UX Design Skills
+* 🐧 Deepen Linux Knowledge
+* 🤝 Contribute to Open Source
+
+---
+
+# 🔥 Coding Activity
+
+```text id="mjlwmr"
+💻 Most of my time goes into:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Java               ████████████░░░░░
+C++                ██████████░░░░░░░
+Problem Solving    █████████████░░░░
+UI/UX Design       ███████░░░░░░░░░░
+Open Source        ████░░░░░░░░░░░░░
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🐍 Contribution Snake
 
-* Master Java & Object-Oriented Programming
-* Become Strong in Data Structures & Algorithms
-* Build Full-Stack Applications
-* Learn Docker & Cloud Fundamentals
-* Contribute to Open Source
-* Develop Professional Software Projects
+```markdown id="9f77ih"
+![Snake animation](https://github.com/Apurbo-urex23/Apurbo-urex23/blob/output/github-contribution-grid-snake-dark.svg)
+```
 
 ---
 
-# 🔥 Featured Projects
+# 🌍 Connect
 
-### 🚀 Project 1
+<div align="center">
 
-Short description about your best project.
-
-### 📱 Project 2
-
-Short description about your second project.
-
-### 🤖 Project 3
-
-Short description about your third project.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
 <a href="https://github.com/Apurbo-urex23">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Consistency compounds. Small progress every day creates extraordinary results."
+### "Great software is built one consistent day at a time."
 
-⭐ If you find my work interesting, consider following my journey.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>

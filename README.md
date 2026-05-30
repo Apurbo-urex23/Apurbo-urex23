@@ -1,141 +1,135 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:0F0C29,50:302B63,100:24243E&text=APURBO&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=22" />
+# APURBO
+
+### ソフトウェア開発者 • Software Developer
+
+<img width="100%" src="YOUR_BANNER_IMAGE_LINK_HERE">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Things+For+The+Future;Software+Engineering+Enthusiast;Java+Developer;Competitive+Programming;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+The+Future+One+Line+At+A+Time;Java+Developer;Problem+Solver;Competitive+Programming+Enthusiast;Always+Learning+Always+Building" />
+
+</div>
+
+---
+
+## / about_me
+
+```yaml id="e9rfpa"
+name: Apurbo
+
+role: Software Developer
+
+education: Computer Science Student
+
+specialization:
+  - Java
+  - C++
+  - Data Structures & Algorithms
+
+interests:
+  - Software Engineering
+  - Linux
+  - UI/UX Design
+  - Open Source
+
+status: Learning. Building. Improving.
+```
+
+---
+
+## / tech_stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,html,css,git,github,linux,vscode,figma,docker" />
+
+</div>
+
+---
+
+## / github_stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Apurbo-urex23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbo-urex23&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Apurbo-urex23&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## / contribution_graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbo-urex23&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## / currently_focused_on
+
+```java id="iqk4q4"
+public class Apurbo {
+
+    String currentFocus =
+        "Java • DSA • Software Engineering";
+
+    String philosophy =
+        "Build. Learn. Repeat.";
+
+}
+```
+
+---
+
+## / achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Apurbo-urex23&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## / terminal
+
+```bash id="0g71zm"
+$ whoami
+
+> Software Developer
+> Computer Science Student
+> Java Enthusiast
+> Lifelong Learner
+
+$ motto
+
+> "Building the future, one line of code at a time."
+```
+
+---
+
+<div align="center">
+
+### CONNECT
+
+<a href="https://github.com/Apurbo-urex23">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/Apurbo-urex23?style=for-the-badge&logo=github&color=181717" />
-<img src="https://img.shields.io/github/stars/Apurbo-urex23?style=for-the-badge&logo=github&color=181717" />
-<img src="https://komarev.com/ghpvc/?username=Apurbo-urex23&style=for-the-badge&color=0e75b6" />
-
-</div>
-
----
-
-# 01. ABOUT ME
-
-```yaml
-name: Apurbo
-role: Software Developer
-education: Computer Science Student
-location: Bangladesh
-
-focus:
-  - Software Engineering
-  - Java Development
-  - Problem Solving
-  - Data Structures & Algorithms
-
-currently_learning:
-  - Advanced Java
-  - System Design
-  - Linux
-  - UI/UX Design
-
-goal:
-  Build impactful software and grow as an engineer.
-```
-
----
-
-# 02. TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,git,github,vscode,linux,figma,docker&perline=7" />
-
-</div>
-
----
-
-# 03. GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurbo-urex23&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbo-urex23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbo-urex23&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 04. CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbo-urex23&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 05. ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Apurbo-urex23&theme=algolia&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
-
-# 06. DEVELOPER METRICS
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apurbo-urex23&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apurbo-urex23&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apurbo-urex23&theme=tokyonight"/>
-
-</div>
-
----
-
-# 07. CURRENT STATUS
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-☕ Learning Java
-🧠 Practicing DSA
-🐧 Exploring Linux
-🎨 UI/UX with Figma
-🚀 Building Better Projects
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# 08. CONTRIBUTION SNAKE
-
-```markdown
-![Snake animation](https://github.com/Apurbo-urex23/Apurbo-urex23/blob/output/github-contribution-grid-snake-dark.svg)
-```
-
----
-
-<div align="center">
-
-## BUILD • LEARN • IMPROVE
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F0C29,50:302B63,100:24243E"/>
+<img src="https://komarev.com/ghpvc/?username=Apurbo-urex23&style=for-the-badge"/>
 
 </div>

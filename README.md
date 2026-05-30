@@ -1,69 +1,62 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=APURBO&fontSize=75&fontAlignY=40&animation=fadeIn"/>
-
-# 👋 Hello, I'm Apurbo
-
-### Software Developer • Problem Solver • Computer Science Student
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Software+With+Purpose;Passionate+About+Technology+and+Innovation;Java+Developer+%7C+Competitive+Programmer;Computer+Science+Student;Learning+Today+Building+Tomorrow;Always+Curious+Always+Growing" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:0F0C29,50:302B63,100:24243E&text=APURBO&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=22" />
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Apurbo-urex23?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/Apurbo-urex23?style=for-the-badge&logo=github" />
-<img src="https://komarev.com/ghpvc/?username=Apurbo-urex23&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Things+For+The+Future;Software+Engineering+Enthusiast;Java+Developer;Competitive+Programming;Always+Learning+New+Technologies" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/Apurbo-urex23?style=for-the-badge&logo=github&color=181717" />
+<img src="https://img.shields.io/github/stars/Apurbo-urex23?style=for-the-badge&logo=github&color=181717" />
+<img src="https://komarev.com/ghpvc/?username=Apurbo-urex23&style=for-the-badge&color=0e75b6" />
 
 </div>
 
 ---
 
-# ⚡ About Me
+# 01. ABOUT ME
 
-```yaml id="4x6s7r"
+```yaml
 name: Apurbo
 role: Software Developer
 education: Computer Science Student
 location: Bangladesh
+
 focus:
   - Software Engineering
+  - Java Development
+  - Problem Solving
   - Data Structures & Algorithms
-  - Object Oriented Programming
-  - UI/UX Design
+
 currently_learning:
-  - Java
+  - Advanced Java
   - System Design
-  - Modern Development Workflows
-goal: Build impactful software and contribute to open source
+  - Linux
+  - UI/UX Design
+
+goal:
+  Build impactful software and grow as an engineer.
 ```
 
 ---
 
-# 🛠️ Tech Arsenal
+# 02. TECH STACK
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,git,github,vscode,linux,figma,docker&perline=7" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 03. GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurbo-urex23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurbo-urex23&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbo-urex23&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -71,33 +64,33 @@ goal: Build impactful software and contribute to open source
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Apurbo-urex23&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbo-urex23&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 04. CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbo-urex23&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbo-urex23&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-# 🏆 Achievement Showcase
+# 05. ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Apurbo-urex23&theme=algolia&row=1&column=7&margin-w=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Apurbo-urex23&theme=algolia&row=1&column=7&no-frame=true"/>
 
 </div>
 
 ---
 
-# 🚀 Developer Dashboard
+# 06. DEVELOPER METRICS
 
 <div align="center">
 
@@ -115,58 +108,34 @@ goal: Build impactful software and contribute to open source
 
 ---
 
-# ⚙️ Current Objectives
+# 07. CURRENT STATUS
 
-* 🚀 Build production-ready projects
-* 🧠 Strengthen DSA & Competitive Programming
-* ☕ Master Java Development
-* 🎨 Improve UI/UX Design Skills
-* 🐧 Deepen Linux Knowledge
-* 🤝 Contribute to Open Source
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+☕ Learning Java
+🧠 Practicing DSA
+🐧 Exploring Linux
+🎨 UI/UX with Figma
+🚀 Building Better Projects
 
-# 🔥 Coding Activity
-
-```text id="mjlwmr"
-💻 Most of my time goes into:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Java               ████████████░░░░░
-C++                ██████████░░░░░░░
-Problem Solving    █████████████░░░░
-UI/UX Design       ███████░░░░░░░░░░
-Open Source        ████░░░░░░░░░░░░░
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-# 🐍 Contribution Snake
+# 08. CONTRIBUTION SNAKE
 
-```markdown id="9f77ih"
+```markdown
 ![Snake animation](https://github.com/Apurbo-urex23/Apurbo-urex23/blob/output/github-contribution-grid-snake-dark.svg)
 ```
 
 ---
 
-# 🌍 Connect
-
 <div align="center">
 
-<a href="https://github.com/Apurbo-urex23">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+## BUILD • LEARN • IMPROVE
 
-</div>
-
----
-
-<div align="center">
-
-### "Great software is built one consistent day at a time."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F0C29,50:302B63,100:24243E"/>
 
 </div>

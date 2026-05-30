@@ -4,7 +4,7 @@
 
 ### ソフトウェア開発者 • Software Developer
 
-<img width="100%" src="YOUR_BANNER_IMAGE_LINK_HERE">
+<img width="100%" src="https://raw.githubusercontent.com/Apurbo-urex23/Apurbo-urex23/main/assets/banner.png">
 
 <br>
 

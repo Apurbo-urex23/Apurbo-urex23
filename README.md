@@ -1,186 +1,52 @@
-<div align="center">
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0F1B4C,50:6A00FF,75:00D4FF,100:050816&text=APURBO&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Developer%20•%20Problem%20Solver&descAlignY=62"/>
-
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Computer+Science+Student;Java+%7C+C+%7C+C%2B%2B+%7C+React;Linux+%7C+Cyber+Security+%7C+Web+Development;Always+Learning+Something+New"/>
-
-</div>
-
----
-
-## ⚡ Developer Dashboard
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 👨‍💻 About Me
-
-```yaml
-Name: Apurbo
-Role: CSE Student
-
-Interests:
-  - Java
-  - C
-  - C++
-  - React
-  - Linux
-  - Cyber Security
-  - Web Development
-
-Current Goal:
-  Become a better developer every day.
-```
-
-</td>
-
-<td width="50%">
-
-### 🎯 Current Focus
-
-```text
-Java Development      ██████████ 85%
-Problem Solving       █████████░ 80%
-C/C++                ████████░░ 75%
-React                ███████░░░ 65%
-Linux                ███████░░░ 60%
-Cyber Security       ██████░░░░ 55%
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🛠 Skills & Technologies
+###
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,react,js,html,css,linux,bash,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
----
-
-## 📊 GitHub Statistics
+###
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
----
-
-## 🔥 Contribution Streak
+###
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
-
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-## 📈 Activity Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
-## 🚀 Tech Journey
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### ☕ Java
-
-Building strong foundations in OOP, DSA, and backend concepts.
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚛️ React
-
-Learning modern frontend development and UI creation.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔐 Cyber Security
-
-Exploring Linux, networking, and security fundamentals.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.facebook.com/shahriarhasan.shahriar.7">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sahriarapurbo/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```cpp
-while(alive){
-    code();
-    learn();
-    build();
-    improve();
-}
-```
-
-### ⚡ BUILDING • LEARNING • IMPROVING ⚡
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,25:0F1B4C,50:6A00FF,75:00D4FF,100:050816"/>
+###

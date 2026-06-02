@@ -1,135 +1,128 @@
-<div align="center">
+# <div align="center">
 
-# APURBO
-
-### ソフトウェア開発者 • Software Developer
-
-<img width="100%" src="https://raw.githubusercontent.com/Apurbo-urex23/Apurbo-urex23/main/assets/banner.png">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+The+Future+One+Line+At+A+Time;Java+Developer;Problem+Solver;Competitive+Programming+Enthusiast;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There+%F0%9F%91%8B+I'm+Apurbo;Computer+Science+Student;Learning+%26+Building+Every+Day;Java+%7C+C+%7C+C%2B%2B+%7C+React;Linux+%7C+Cyber+Security+%7C+Web+Development" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## / about_me
+<div align="center">
 
-```yaml id="e9rfpa"
-name: Apurbo
+### 🚀 Passionate About Technology, Development & Continuous Learning
 
-role: Software Developer
+<img src="https://komarev.com/ghpvc/?username=Apurbo&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-education: Computer Science Student
+</div>
 
-specialization:
-  - Java
-  - C++
-  - Data Structures & Algorithms
+---
 
-interests:
-  - Software Engineering
-  - Linux
-  - UI/UX Design
-  - Open Source
+## 🧠 Currently Learning
 
-status: Learning. Building. Improving.
+```text
+☕ Java
+⚡ C / C++
+🌐 Web Development
+⚛️ React
+🐧 Linux
+🔐 Cyber Security
+💻 Problem Solving
+📚 Computer Science Fundamentals
 ```
 
 ---
 
-## / tech_stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,html,css,git,github,linux,vscode,figma,docker" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,vscode,git,github" />
+
+### Operating Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,bash,windows" />
 
 </div>
 
 ---
 
-## / github_stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Apurbo-urex23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Apurbo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbo-urex23&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Apurbo-urex23&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbo&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
 ---
 
-## / contribution_graph
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbo-urex23&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Apurbo&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
 ---
 
-## / currently_focused_on
-
-```java id="iqk4q4"
-public class Apurbo {
-
-    String currentFocus =
-        "Java • DSA • Software Engineering";
-
-    String philosophy =
-        "Build. Learn. Repeat.";
-
-}
-```
-
----
-
-## / achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Apurbo-urex23&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Apurbo&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
 
 </div>
 
 ---
 
-## / terminal
-
-```bash id="0g71zm"
-$ whoami
-
-> Software Developer
-> Computer Science Student
-> Java Enthusiast
-> Lifelong Learner
-
-$ motto
-
-> "Building the future, one line of code at a time."
-```
-
----
+## 📈 Activity Graph
 
 <div align="center">
 
-### CONNECT
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbo&theme=tokyo-night&hide_border=true&area=true" />
 
-<a href="https://github.com/Apurbo-urex23">
-<img src="https://skillicons.dev/icons?i=github"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.facebook.com/shahriarhasan.shahriar.7">
+<img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Apurbo-urex23&style=for-the-badge"/>
+<a href="https://www.instagram.com/sahriarapurbo/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+### ✨ "Code • Learn • Build • Improve"
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
